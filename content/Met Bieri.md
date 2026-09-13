@@ -1,6 +1,7 @@
 ---
 aliases:
 share: true
+password: test123
 tags:
   - Personen
 Kategorie:
