@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sg-crm-notizen-x79kq-privat.netlify.app
+  baseUrl: lucasernit.github.io/sg-crm
   ignorePatterns:
     - private
     - templates
